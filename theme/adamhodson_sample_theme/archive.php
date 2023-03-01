@@ -1,15 +1,4 @@
-<?php
-/**
- * The template for displaying archive pages
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package WordPress
- * @subpackage Twenty_Nineteen
- * @since 1.0.0
- */
-get_header();
-?>
+<?php get_header(); ?>
 
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
@@ -36,5 +25,4 @@ get_header();
 		</main><!-- #main -->
 	</section><!-- #primary -->
 
-<?php
-get_footer();
+<?php get_footer();

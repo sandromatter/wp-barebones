@@ -1,14 +1,4 @@
-<?php
-/**
- * Index template
- * 
- * Last stop on the template hierarchy.
- * 
- * @package WordPress
- * @version 1.0
- */
-get_header();
-?>
+<?php get_header(); ?>
 
     <?php if (have_posts()) : ?>
 
